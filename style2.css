@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    background-color:#FEFFC8;
+}
+
+header{
+    background-color: #00F845;
+    color: white;
+}
+
+header h1{
+    text-align: center;
+}
+
+main{
+    background-color: #2FBA53;
+}
+
+main img{
+    background-color: #00A12A;
+}
+
+main p{
+    text-align: center;
+    color: white;
+    background-color: #00A12A;
+}
+
+main ul{
+    color: white;
+    text-align: right;
+    background-color: #00A12A;
+}
+
+footer p{
+    background-color: #0D5C00;
+    color: white;
+}
+
+
+nav a{
+    color: white;
+    border: 3px solid #2A27B4;
+    border-radius: 100px;
+    background-color: #0D5C00;
+}
