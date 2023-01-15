@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    background-color:#FEFFC8;
+}
+
+header{
+    background-color: #00F845;
+    color: white;
+}
+
+header h1{
+    text-align: center;
+}
+
+main p{
+    text-align: center;
+}
+
+footer p{
+    background-color: #0D5C00;
+    color: white;
+}
+
+h2{
+    border: 2px solid #879C07;
+    border-radius: 100px;
+    background-color: #8CD17A;
+}
+
+nav a{
+    color: white;
+    border: 3px solid #2A27B4;
+    border-radius: 100px;
+    background-color: #0D5C00;
+}
